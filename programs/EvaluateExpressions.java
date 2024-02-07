@@ -1,5 +1,3 @@
-package com.demo.stream;
-
 import java.util.Scanner;
 import java.util.Stack;
 
